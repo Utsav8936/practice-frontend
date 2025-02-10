@@ -1,0 +1,25 @@
+/* div{
+    background-color: aqua;
+   width: 350px;
+   height: 400px;
+   border: 1px solid red;
+}
+.butt{
+    color: aqua;
+    background-color: black;
+} */
+/* 
+.content{
+    color: red;
+}
+.newClass{
+    background-color:green;
+} */
+ div{
+    height: 200px;
+    width: 250px;
+    color: rgb(65, 65, 32);
+    background-color: aqua;
+    border: 5px solid blue;
+
+ }
